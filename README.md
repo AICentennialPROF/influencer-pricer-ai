@@ -1,9 +1,7 @@
-# influencer-pricer-ai
-AI tool for data-driven influencer pricing based on social media analytics
 # InfluencerPricer AI
 Final project for the Building AI course
 
-## Summary ##
+## Summary
 
 An AI tool that analyzes influencer social media profiles to recommend fair pricing for brand partnerships. It evaluates followers, engagement rates, bot detection, and content quality to give data-driven cost-per-post suggestions.
 
